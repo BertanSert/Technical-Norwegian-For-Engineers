@@ -13,6 +13,11 @@ A curated glossary of mechanical and offshore engineering terms in Norwegian.
 
 
 
+
+
+
+
+
 | Strength of Materials | Materialstyrke | Mukavemet |
 | :--- | :--- | :--- |
 | Heat Transfer | Varmeoverføring | Isı Transferi |
