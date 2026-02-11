@@ -8,6 +8,7 @@ A curated glossary of mechanical and offshore engineering terms in Norwegian.
 | Fluid Mechanics | Strømningsmekanikk | Akışkanlar Mekaniği |
 | Offshore Platform | Offshore-plattform | Offshore Platformu |
 | Energy Harvesting | Energihøsting | Enerji Hasadı |
+.
 
 
 
@@ -16,8 +17,7 @@ A curated glossary of mechanical and offshore engineering terms in Norwegian.
 
 
 
-
-
+.
 | Strength of Materials | Materialstyrke | Mukavemet |
 | :--- | :--- | :--- |
 | Heat Transfer | Varmeoverføring | Isı Transferi |
